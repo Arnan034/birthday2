@@ -1,4 +1,4 @@
-const targetDate = new Date('2024-11-20T20:05:00'); // Sesuaikan dengan tanggal yang diinginkan
+const targetDate = new Date('2024-11-20T20:10:00'); // Sesuaikan dengan tanggal yang diinginkan
 const music = document.getElementById('birthdayMusic');
 
 function playMusic() {
